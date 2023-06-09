@@ -1,2 +1,4 @@
 # MicToggler
-Being accidentally unmuted on Zoom brings me anxiety, so I made a menubar toggler to provide an always visible second layer of defense.
+Being accidentally unmuted on Zoom brings me anxiety, so I made a menubar toggler to provide an always visible second layer of defense.\
+\
+Note: This program switches your microphone to ["Background Music"](https://github.com/kyleneideck/BackgroundMusic). This is because muting is linked with Zoom, i.e. being muted through MicToggler is irrelevant if you unmute on zoom (thus MicToggler would only serve as a menubar visualization of your microphone and not a second layer of defense). By switching to Background Music instead, regardless of your mute setting you will not have microphone sound. The only time you may have unintended microphone sound when the menubar app shows you as muted is if you switch your speaker to "Background Music" (as is the purpose of the Background Music app). As long as one doesn't do that (i.e. as long as one sets their speaker to anything except Background Music), the app works as intended.
